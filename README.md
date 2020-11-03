@@ -9,7 +9,7 @@
 ## Getting started
 
 1. Clone repo
-2. Open Backend-Json-Server directory 
+2. Open Backend-Json-Server directory or dowlnoad - link: "https://github.com/typicode/json-server"
 3. npm install
 4. npm start ( database / backend works on local server's URL (i.e. localhost:3000 )
 ---
